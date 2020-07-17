@@ -1,0 +1,300 @@
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/d44c0b2252bf8a92.jpg 401,384,559,438,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/b8a3f2ea385e45b3.jpg 40,397,73,411,0 292,410,338,434,0 697,411,745,432,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/d8f6c135ec5486ff.jpg 797,423,932,496,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/b3b61da98e22cd4a.jpg 734,343,839,432,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/5a122adbb1a776b7.jpg 76,79,87,89,0 357,213,479,240,0 449,418,680,472,0 630,118,669,133,0 882,278,901,306,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/87b4f1202cd06440.jpg 77,548,180,584,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/182268e1f8c6525f.jpg 506,414,680,483,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/2e95d7a799e23e11.jpg 747,270,874,321,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/e52d4f347b2cf90f.jpg 489,431,609,496,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/6306fc7f3573eb70.jpg 533,434,553,444,0 1002,452,1024,472,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/09453a7c716a9ef3.jpg 495,631,651,683,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/665cac5fd1cc2186.jpg 102,400,214,474,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/ec8a36f7874c0c34.jpg 191,391,304,419,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/77e716224c85410f.jpg 240,242,259,253,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/70e7b5173fe1e289.jpg 177,239,442,324,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/19ff847d0cd1c5ec.jpg 422,496,604,538,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/18098dc9ee6aad80.jpg 631,387,780,420,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/485e5f37dd13ffab.jpg 95,124,133,144,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/80d21c58a71a0751.jpg 261,319,440,358,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/28d1fb27a6e42ee7.jpg 396,405,438,422,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/2bd26c63ebf598b7.jpg 664,361,800,420,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/39c193bcc0c00f9e.jpg 209,370,445,515,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/44afab29f5fa0abf.jpg 292,557,520,642,0 940,455,1024,504,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/66be6b583048fa94.jpg 0,326,112,469,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/ff85b09876d61631.jpg 349,673,516,753,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/415d64bf8cfe82f2.jpg 414,340,593,384,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/9a795bbf4e94d630.jpg 301,473,483,526,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/b91c3aaba25bf914.jpg 273,469,429,510,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/6504632e0dc25997.jpg 159,191,173,201,0 741,556,845,636,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/8cb5553e75d3d311.jpg 101,347,176,418,0 844,139,902,174,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/895d440e05b2a8d8.jpg 182,523,404,580,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/62bb93bbd270dd9a.jpg 669,420,739,446,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/326c3286bcb5b2b0.jpg 25,125,46,131,0 735,420,866,516,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/b076ad266891d7aa.jpg 149,550,178,582,0 934,484,977,494,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/fb4e60b5cee8b88e.jpg 288,669,454,757,0 294,248,361,276,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/908a3ac555a1a509.jpg 588,465,705,515,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/5373ec295ea62c47.jpg 832,390,949,433,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/a54e7bb80448f3b0.jpg 0,442,42,502,0 724,366,809,415,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/a9b2a2018f845393.jpg 101,364,201,433,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/c50d184afad1a9dc.jpg 283,368,375,460,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/f5128e7a123b4fa8.jpg 585,360,710,426,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/67c834b73882a9f9.jpg 406,78,424,108,0 610,335,873,427,0 830,137,855,162,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/90abd4265adf5a00.jpg 72,434,106,452,0 362,325,381,338,0 432,459,460,476,0 527,328,543,335,0 656,342,676,355,0 738,282,757,292,0 781,570,827,595,0 829,350,850,361,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/71881a9c0f7f0a86.jpg 498,468,609,545,0 586,228,617,243,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/74ee6d1b58ae2e70.jpg 436,390,598,422,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/ee047c8ca2cca8a2.jpg 397,334,682,413,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/1ca1155083156d72.jpg 357,374,659,503,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/7cbc7ee444622a66.jpg 489,611,729,693,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/12d3b6665f7e1cf6.jpg 0,357,75,409,0 521,242,550,257,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/f3c9af100984744f.jpg 5,308,50,342,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/0f0596b1c511e071.jpg 265,109,286,114,0 904,432,1024,515,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/460753acbd6e6dad.jpg 134,255,169,277,0 295,529,434,612,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/43b1b0028dd2db8d.jpg 510,520,673,562,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/49595029959689b7.jpg 797,487,880,570,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/17585ef2efb5ef9b.jpg 266,774,565,835,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/19eba8ac64eed194.jpg 258,299,357,374,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/1f1d5bc31e444cc1.jpg 304,354,563,430,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/6a0ef049e5ec4b16.jpg 5,413,259,546,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/ed7d99098d4af8e6.jpg 136,388,253,423,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/5df8816356fc2b29.jpg 33,308,63,337,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/99c9c657582f958f.jpg 96,417,123,440,0 300,483,368,530,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/d648b2ae1abc09f3.jpg 340,526,581,577,0 968,404,1024,425,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/2619ec27a314e69c.jpg 0,411,149,569,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/52ceb1fc30b413e5.jpg 769,315,787,330,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/82b53fe7f9147c96.jpg 210,386,270,428,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/be9fd0014b5a4f2a.jpg 210,321,412,385,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/6aff04e9c32aec0f.jpg 0,678,163,853,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/932eef14e5ee78b2.jpg 397,417,675,475,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/1e6e75488d7878aa.jpg 59,455,86,487,0 664,394,677,407,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/de2b5afb7eda96cf.jpg 161,205,192,229,0 770,407,863,462,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/cb8c75fc1c7ccf73.jpg 383,476,631,611,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/d6c5271e96ec1a61.jpg 250,88,270,102,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/2e8a83cfb1afe7ba.jpg 333,483,502,529,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/2a3e44107826e876.jpg 605,242,715,294,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/f3814f4a6121838d.jpg 689,238,803,280,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/140e8d10ff02e7e7.jpg 497,393,564,426,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/66771a4870c324f9.jpg 755,139,890,170,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/f194eaf4f3d1d835.jpg 287,465,397,550,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/cdb1e8621d1c624e.jpg 644,416,895,487,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/7f9740e95a74f2b9.jpg 255,361,745,462,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/33e0333ff031c4fb.jpg 744,652,889,789,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/98bcfbc4d3c8abbc.jpg 28,415,96,444,0 236,307,264,318,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/73467682c5995b65.jpg 382,475,584,529,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/5641e6ad7d2600f2.jpg 152,497,308,597,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/315aead7766727b8.jpg 286,534,473,588,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/0170ea8e1a33375a.jpg 0,89,22,106,0 594,434,740,531,0 925,120,969,147,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/aca8821ff0368720.jpg 12,168,48,204,0 315,158,400,222,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/7539902687e8f3a4.jpg 205,330,220,338,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/647ff22cf6950211.jpg 470,469,621,548,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/5581a1b7d2f0f2b4.jpg 421,617,578,699,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/0787b0fa95f545a5.jpg 77,179,105,188,0 457,494,610,574,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/548a8e997a66a0c4.jpg 424,427,519,481,0 715,408,739,420,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/1db3793d7c84faa1.jpg 167,419,211,449,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/3e2306f2cf4b2c67.jpg 566,521,699,592,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/3d98e3713783e82d.jpg 119,402,231,438,0 3697,1465,3933,1778,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/b6ecda23586a6ba5.jpg 295,567,413,652,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/6e819dc674a74078.jpg 496,318,741,400,0 958,14,991,31,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/cb4b754537798d23.jpg 0,353,43,372,0 504,479,639,508,0 893,466,1010,496,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/f73b754cdb1ab677.jpg 683,514,843,558,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/e57d38ae6a921518.jpg 213,418,327,502,0 1007,144,1024,154,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/302d636c896c263f.jpg 170,315,199,329,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/575d96d014e4fbab.jpg 372,460,523,544,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/06b024413ad385a7.jpg 837,485,916,525,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/a774a6f81fea258b.jpg 817,373,902,427,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/e40cafe0f0d3a550.jpg 62,403,151,532,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/3ed000628c6a0587.jpg 424,361,538,422,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/c91ee912164d8ecb.jpg 441,310,649,385,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/b94993a2d67b455e.jpg 254,222,414,276,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/0f4bfc46402a9f52.jpg 444,314,822,502,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/2f3887024d298547.jpg 467,394,581,423,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/88fc866f92860d70.jpg 542,722,695,796,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/a929dc75c20da7d8.jpg 294,483,543,608,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/59b83c5f8f1dcfa4.jpg 99,885,112,915,0 663,761,686,778,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/4b3aba5dfb7a0492.jpg 171,394,281,468,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/1f34454c4c073e1b.jpg 75,335,127,360,0 291,525,505,582,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/4148b2126f0986a4.jpg 354,830,608,911,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/4e593c88022ff6b1.jpg 592,441,707,513,0 757,230,828,279,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/affd16c51644a893.jpg 308,572,581,632,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/80e02a518ffe4cb2.jpg 374,433,678,510,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/23c2c79a9febbf3e.jpg 625,371,748,440,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/5a96f5e1f9be8d42.jpg 262,512,480,582,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/bbcac63e32bd8137.jpg 378,276,759,455,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/133921bd26fff729.jpg 102,465,120,475,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/0d6ca8553971fefd.jpg 251,585,369,650,0 819,195,828,206,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/0ee91c4938b6e7ee.jpg 0,173,19,182,0 302,566,443,633,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/5fb888d79b551331.jpg 471,476,753,628,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/30b6cfb60bf44533.jpg 58,402,84,414,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/d565d93637d4e76d.jpg 515,493,672,542,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/67945cf7a6beccdf.jpg 447,433,611,477,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/7275e72e1996267f.jpg 447,360,735,439,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/844adfe06e003c09.jpg 596,520,644,548,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/9498d0aff8f9ff8c.jpg 946,372,988,405,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/4572990fd64bb6be.jpg 0,243,80,271,0 924,481,958,557,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/3feecc5809a29627.jpg 245,701,439,752,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/53386dae3cf13cc3.jpg 281,491,599,572,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/69450fa183d57a7b.jpg 0,173,15,179,0 998,284,1024,299,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/85ddb7e0f60156a3.jpg 618,213,638,222,0 869,225,885,234,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/3ecd5af7c4f11963.jpg 293,246,629,434,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/d5058059dc0ce0ad.jpg 451,392,648,461,0 906,154,927,162,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/fa897478280a2758.jpg 530,462,711,548,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/e79f6777f2fc08b2.jpg 395,442,695,521,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/2fe1f00b77a110a0.jpg 415,347,604,387,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/246a0e4264a39433.jpg 307,452,399,499,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/057569768fd6303e.jpg 27,242,63,263,0 847,448,982,539,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/6b113b3edbadfe5d.jpg 19,189,109,236,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/65e080f9ac466664.jpg 52,253,82,268,0 205,250,279,292,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/f5d1729aa333b284.jpg 83,239,151,269,0 720,499,843,599,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/36d7b8b3cca3b0f5.jpg 80,270,115,300,0 786,62,800,70,0 802,83,809,91,0 964,185,990,201,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/8ceed1ec9bc3ac45.jpg 451,809,678,906,0 652,294,672,303,0 745,306,768,316,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/50631041f74001aa.jpg 169,359,196,392,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/b193070a9c45b5ab.jpg 201,443,312,495,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/29f7991e696e6e3f.jpg 445,289,638,386,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/b101900b26128253.jpg 54,179,84,193,0 720,461,760,479,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/d28d71c2690c16ed.jpg 305,78,361,90,0 612,478,787,526,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/e08424f3cd5f6dac.jpg 388,291,593,395,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/5cc19b450a51ee4c.jpg 712,634,854,743,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/f3bd3adea149193b.jpg 155,540,295,658,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/091c033b2a7df15b.jpg 224,468,277,526,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/128a59bca025bed6.jpg 445,393,576,461,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/2f90aaa72744452d.jpg 407,404,579,440,0 770,308,826,329,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/894cacdb385fdb6b.jpg 483,521,600,580,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/4ee3f0e9a2fb20a9.jpg 310,312,497,410,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/724307be418b2ed2.jpg 208,407,314,486,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/0cacb08195a3e2d7.jpg 308,387,435,472,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/b7cdb5c0c99002b7.jpg 727,279,875,333,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/643c3cc1a4e85db2.jpg 451,371,601,447,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/a67bc3f5f8650c73.jpg 673,570,855,626,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/1edfbe8c28a86caf.jpg 409,335,589,374,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/f700c5b69c973db6.jpg 327,337,435,369,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/a72a8cda1bb31e34.jpg 752,558,914,655,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/f38265abb22a00e4.jpg 33,232,84,248,0 452,148,463,158,0 489,174,523,184,0 845,492,903,544,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/ad10c7d29f111692.jpg 766,588,890,632,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/bd12ea92bcab1afd.jpg 98,182,112,192,0 210,195,232,205,0 739,398,810,455,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/9c92cadb0f6237c0.jpg 819,439,926,516,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/d8daed582e6cce2d.jpg 493,341,748,478,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/944281d0485869f0.jpg 414,418,636,559,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/747b0f12f54703ee.jpg 367,535,681,593,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/fc0a607ba5f38505.jpg 685,493,769,526,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/3e156de979eb0828.jpg 627,535,779,621,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/b09813a8742277c7.jpg 0,295,35,312,0 342,336,658,417,0 882,260,898,272,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/feaf383fc5de383f.jpg 408,685,603,764,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/e9cd346a4a84d594.jpg 285,475,472,579,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/4cb48c8bf41b70a4.jpg 388,410,626,512,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/9a4fe6361597f264.jpg 378,426,632,482,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/85f0b4db3eb512ce.jpg 742,344,833,374,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/4c04b488ddc48225.jpg 780,338,905,395,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/b57fe3aa2ff9577e.jpg 113,387,141,414,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/26183d88c4f8012f.jpg 199,452,361,523,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/3241f09a8964ddfb.jpg 338,515,393,552,0 877,371,906,388,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/28bd6c6b1050e055.jpg 24,253,296,332,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/ea02d99ba51372ee.jpg 100,319,134,329,0 158,584,299,658,0 681,256,697,264,0 806,324,855,339,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/f9170e8c13a99991.jpg 371,85,616,200,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/e742e284c7c9da96.jpg 857,441,958,531,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/53925df03b471f5d.jpg 524,611,553,624,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/b15d6c0bdf90226d.jpg 875,515,944,587,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/8cdcb833ef1ef049.jpg 228,357,386,404,0 839,269,871,296,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/35875c388efcddf0.jpg 2,47,35,64,0 460,379,738,527,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/a5d6f8d36672fa64.jpg 972,475,1017,525,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/edecf3a6d569b7c9.jpg 0,791,195,889,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/9995dfc6e0eae5a1.jpg 382,395,534,440,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/aac1aaaf824b63dd.jpg 45,265,84,286,0 462,433,585,488,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/1f0e643b125f00ec.jpg 730,455,820,508,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/85b1dafd26aa98df.jpg 6,59,27,72,0 138,23,159,31,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/e1120bfe48f85c1b.jpg 182,443,317,520,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/a79296fb4a48245e.jpg 247,399,347,443,0 605,327,661,352,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/2956bcbedfc167b6.jpg 892,381,933,425,0 943,277,972,302,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/16789af24af158d8.jpg 263,463,637,566,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/b01d46f9911d558b.jpg 403,144,629,244,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/6eb18d1ad17cd174.jpg 938,434,1000,518,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/15a51e29f5ceffd8.jpg 428,390,583,471,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/1ead26febde18ce9.jpg 414,268,683,400,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/0c756c9366a8cb10.jpg 226,383,255,394,0 636,580,757,638,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/d53a3bc813477685.jpg 417,342,511,367,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/37ff77d13a54aac2.jpg 410,464,504,527,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/e6299b9e04680adb.jpg 242,95,258,103,0 492,141,516,151,0 744,189,785,205,0 946,225,999,247,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/64de505bd2bac82b.jpg 215,586,395,643,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/a6e3b0b73220cd32.jpg 435,428,604,482,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/9286a99f243b359a.jpg 791,361,899,423,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/50c37aeaf19acd5b.jpg 706,453,847,542,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/693acf98575cbe27.jpg 175,240,252,312,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/bf2f25f3ed9ff4d5.jpg 302,398,683,487,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/d830c3573e57bfc0.jpg 410,583,538,631,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/4df1448703257ff0.jpg 402,703,575,768,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/52bf6b555e578a34.jpg 970,553,1024,568,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/b1096bc91a89b0cf.jpg 702,381,813,442,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/f0c7057612710f21.jpg 398,435,598,529,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/f1131b93a33cefb9.jpg 398,491,552,572,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/d027c6e32db60e3c.jpg 353,392,677,494,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/fb55b73f241bf50a.jpg 366,406,675,489,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/03b7b71e1ffcb7a8.jpg 0,316,64,374,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/e4d600a63db8bf3a.jpg 901,464,985,572,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/ebaefbcb87bfa8a1.jpg 277,503,368,562,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/ae6724423f0d111a.jpg 616,618,835,698,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/fa9147596edc058f.jpg 620,409,707,469,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/ef1bd7b718a3f6e8.jpg 743,241,786,262,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/bf0aac0878b0a3d2.jpg 634,440,747,502,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/54ebca2064066a49.jpg 468,371,626,451,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/8c63cf76166c3bd7.jpg 755,447,836,510,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/02a6ef3d9bd68e91.jpg 151,310,209,344,0 954,115,1023,130,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/28e26a4eb646c67a.jpg 454,336,648,395,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/fdd963edc28bf163.jpg 471,368,809,470,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/343326e127297379.jpg 977,360,1024,383,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/2b97f5bf137ee8d1.jpg 87,305,129,318,0 141,424,224,473,0 936,367,1023,396,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/2753536137929411.jpg 118,400,241,462,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/017527da8bfeb97d.jpg 523,306,789,376,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/0727983dd5f9e4e6.jpg 486,594,710,694,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/27798906120ea394.jpg 190,405,344,487,0 289,232,323,261,0 892,179,967,200,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/2adddd0b09bb0f17.jpg 427,364,599,449,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/90596bf3313e72e3.jpg 112,200,221,244,0 887,119,924,130,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/f83d18919353c483.jpg 272,453,417,487,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/5a3f94aa35766f31.jpg 174,270,228,299,0 334,201,367,227,0 687,314,782,363,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/d9fa2abf3719a4bd.jpg 22,362,250,480,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/9238f5062ff1dc8d.jpg 812,497,886,543,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/f9f539977bfea25e.jpg 449,495,567,554,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/d27e094e98374ff8.jpg 529,433,762,489,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/b25d7d2cb7abf86b.jpg 418,424,609,520,0 1002,176,1024,209,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/e9fdd0a41cb61da6.jpg 343,392,512,477,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/1a3e9d87d733ff7f.jpg 829,339,915,377,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/11f80fda2c38011c.jpg 540,451,652,493,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/334f31e809ec9a77.jpg 158,444,234,494,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/0fbd1b85fc01d2ae.jpg 75,417,149,460,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/4ac941b9393d00f9.jpg 998,415,1024,440,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/76e14d05ee8acb6d.jpg 106,297,260,397,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/a3ad91fabd188be3.jpg 172,405,308,460,0 845,212,885,234,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/ce97f7bc90e97109.jpg 229,336,324,396,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/5daafbcf76fa6602.jpg 403,505,559,552,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/61a69ad713142e45.jpg 308,484,425,574,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/185fd6653258d3ed.jpg 694,432,780,476,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/7f56adf4b9306ac9.jpg 209,308,399,362,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/e82f13b4a2fe69f3.jpg 161,487,986,687,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/508f0a75156e5fd4.jpg 910,463,949,491,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/428a5131c8cff7da.jpg 416,523,626,639,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/fc0f46431cb1dbe9.jpg 8,92,43,99,0 75,76,93,80,0 596,442,787,494,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/125622a2508e3b1d.jpg 291,479,375,523,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/185d5dfa193c4ced.jpg 427,319,561,386,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/a52079c6cc4050cd.jpg 448,545,578,608,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/955a8e4c8ba8116e.jpg 603,428,845,530,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/daac3a6c64a79bea.jpg 44,362,191,417,0 301,879,459,933,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/228bd52bbe043677.jpg 500,270,579,310,0 917,205,949,220,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/659dbf4f8c0fd29d.jpg 588,643,767,734,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/791d63b1c3499e4f.jpg 711,459,819,579,0 906,86,923,104,0 975,28,1019,42,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/c7b1e6f7c38fa1a0.jpg 0,620,29,639,0 241,601,263,616,0 879,579,917,595,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/d3729058c6a4186e.jpg 582,365,740,423,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/b32671b7cc279583.jpg 150,420,412,568,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/f5c2a80a21ddb78c.jpg 208,228,373,273,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/b5e7183b6a5abe6c.jpg 552,521,694,593,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/ff69d090c735eccb.jpg 524,342,816,487,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/08481c03daf6f35d.jpg 317,598,705,681,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/081f5a6bc61b9c48.jpg 590,338,727,417,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/d59b7a0ff294e3be.jpg 437,575,565,616,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/749b4451492fc250.jpg 163,455,315,518,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/8cca720c410ee7f8.jpg 192,863,466,920,0 365,263,383,274,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/11b155ab5b3331cf.jpg 331,425,453,463,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/e2427db217e5c3db.jpg 78,369,168,464,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/911e694dcc0814bf.jpg 108,131,144,147,0 510,157,528,175,0 810,510,889,635,0 920,363,974,393,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/0673b967f8c68eec.jpg 217,533,479,633,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/f6256bceaf66693f.jpg 495,558,737,659,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/71dbb47ebe504abe.jpg 120,368,211,402,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/5ff91ccfc6f15d04.jpg 266,279,540,347,0
+/content/gdrive/My Drive/TensorFlow-2.x-YOLOv3-master/custom_dataset/test/a56e82026bb71ad5.jpg 422,406,619,509,0
