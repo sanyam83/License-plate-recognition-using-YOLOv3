@@ -13,7 +13,7 @@ def text_to_labels(text):      # text를 letters 배열에서의 인덱스 값�
 
 class TextImageGenerator:
     def __init__(self, img_dirpath, img_w, img_h,
-                 batch_size, downsample_factor, max_text_len=9):
+                 batch_size, downsample_factor, max_text_len=15, df):
         self.img_h = img_h
         self.img_w = img_w
         self.batch_size = batch_size
@@ -26,6 +26,7 @@ class TextImageGenerator:
         self.cur_index = 0
         self.imgs = np.zeros((self.n, self.img_h, self.img_w))
         self.texts = []
+        self.df = df
 
     ## samples의 이미지 목록들을 opencv로 읽어 저장하기, texts에는 label 저장
     def build_data(self):
@@ -37,7 +38,7 @@ class TextImageGenerator:
             img = (img / 255.0) * 2.0 - 1.0
 
             self.imgs[i, :, :] = img
-            self.texts.append(img_file[0:-4])
+            self.texts.append(self.df['labels'][i])
         print(len(self.texts) == self.n)
         print(self.n, " Image Loading finish...")
 
