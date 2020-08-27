@@ -10,10 +10,28 @@ def labels_to_text(labels):     # letters의 index -> text (string)
 def text_to_labels(text):      # text를 letters 배열에서의 인덱스 값으로 변환
     return list(map(lambda x: letters.index(x), text))
 
+def getListOfFiles(dirName):
+    # create a list of file and sub directories 
+    # names in the given directory 
+    listOfFile = os.listdir(dirName)
+    allFiles = list()
+    # Iterate over all the entries
+    for entry in listOfFile:
+        # Create full path
+        fullPath = os.path.join(dirName, entry)
+        # If entry is a directory then get the list of files in this directory 
+        if os.path.isdir(fullPath):
+            allFiles = allFiles + getListOfFiles(fullPath)
+        else:
+            if imghdr.what(fullPath) == None:
+              continue
+            allFiles.append(fullPath)
+                
+    return allFiles
 
 class TextImageGenerator:
     def __init__(self, img_dirpath, img_w, img_h,
-                 batch_size, downsample_factor, max_text_len=15, df):
+                 batch_size, downsample_factor, df, max_text_len=15):
         self.img_h = img_h
         self.img_w = img_w
         self.batch_size = batch_size
