@@ -55,7 +55,7 @@ def get_Model(training):
     inner = Activation('relu')(inner)
 
     # CNN to RNN
-    inner = Reshape(target_shape=((32, 2048)), name='reshape')(inner)  # (None, 32, 2048)
+    inner = Reshape(target_shape=((32, 1024)), name='reshape')(inner)  # (None, 32, 2048)
     inner = Dense(64, activation='relu', kernel_initializer='he_normal', name='dense1')(inner)  # (None, 32, 64)
 
     # RNN layer
