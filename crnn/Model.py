@@ -5,7 +5,7 @@ from keras.layers import Reshape, Lambda, BatchNormalization
 from keras.layers.merge import add, concatenate
 from keras.models import Model
 from keras.layers.recurrent import LSTM
-from parameter import *
+from crnn.parameter import *
 K.set_learning_phase(0)
 
 # # Loss and train functions, network architecture
