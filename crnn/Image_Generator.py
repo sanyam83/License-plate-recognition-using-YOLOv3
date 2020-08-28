@@ -1,7 +1,7 @@
 import cv2
 import os, random
 import numpy as np
-from parameter import letters
+from crnn.parameter import letters
 
 # # Input data generator
 def labels_to_text(labels):     # letters의 index -> text (string)
