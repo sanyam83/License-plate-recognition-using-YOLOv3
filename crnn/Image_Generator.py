@@ -1,14 +1,27 @@
 import cv2
 import os, random
+from PIL import Image, ImageOps  
 import numpy as np
-from crnn.parameter import letters
+from skimage.util import img_as_float
+from crnn.parameter import *
+from keras.preprocessing.sequence import pad_sequences
 
+from crnn.parameter import letters
+import imghdr
 # # Input data generator
 def labels_to_text(labels):     # letters의 index -> text (string)
     return ''.join(list(map(lambda x: letters[int(x)], labels)))
 
-def text_to_labels(text):      # text를 letters 배열에서의 인덱스 값으로 변환
-    return list(map(lambda x: letters.index(x), text))
+def text_to_labels(text):      
+    # encoding each output word into digits
+    dig_lst = []
+    for index, char in enumerate(text):
+        try:
+            dig_lst.append(letters.index(char))
+        except:
+            print(char)
+        
+    return dig_lst
 
 def getListOfFiles(dirName):
     # create a list of file and sub directories 
@@ -25,8 +38,7 @@ def getListOfFiles(dirName):
         else:
             if imghdr.what(fullPath) == None:
               continue
-            allFiles.append(fullPath)
-                
+            allFiles.append(fullPath)       
     return allFiles
 
 class TextImageGenerator:
@@ -38,7 +50,7 @@ class TextImageGenerator:
         self.max_text_len = max_text_len
         self.downsample_factor = downsample_factor
         self.img_dirpath = img_dirpath                  # image dir path
-        self.img_dir = os.listdir(self.img_dirpath)     # images list
+        self.img_dir = getListOfFiles(img_dirpath)    # images list
         self.n = len(self.img_dir)                      # number of images
         self.indexes = list(range(self.n))
         self.cur_index = 0
@@ -50,7 +62,7 @@ class TextImageGenerator:
     def build_data(self):
         print(self.n, " Image Loading start...")
         for i, img_file in enumerate(self.img_dir):
-            img = cv2.imread(self.img_dirpath + img_file, cv2.IMREAD_GRAYSCALE)
+            img = cv2.imread(self.img_dir[i], cv2.IMREAD_GRAYSCALE)
             img = cv2.resize(img, (self.img_w, self.img_h))
             img = img.astype(np.float32)
             img = (img / 255.0) * 2.0 - 1.0
@@ -62,6 +74,7 @@ class TextImageGenerator:
 
     def next_sample(self):      ## index max -> 0 으로 만들기
         self.cur_index += 1
+        print(self.cur_index)
         if self.cur_index >= self.n:
             self.cur_index = 0
             random.shuffle(self.indexes)
@@ -75,13 +88,15 @@ class TextImageGenerator:
             label_length = np.zeros((self.batch_size, 1))           # (bs, 1)
 
             for i in range(self.batch_size):
+                training_txt = []
                 img, text = self.next_sample()
                 img = img.T
                 img = np.expand_dims(img, -1)
                 X_data[i] = img
-                Y_data[i] = text_to_labels(text)
+                training_txt.append(text_to_labels(text))
+                Y_data[i] = pad_sequences(list(training_txt), maxlen=max_text_len, padding='post', value = len(letters))
                 label_length[i] = len(text)
-
+                
             # dict 형태로 복사
             inputs = {
                 'the_input': X_data,  # (bs, 128, 64, 1)
