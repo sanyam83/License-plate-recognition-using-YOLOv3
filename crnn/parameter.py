@@ -6,7 +6,7 @@ num_classes = len(letters) + 1
 img_w, img_h = 128, 32
 
 # Network parameters
-batch_size = 128
+batch_size = 64
 val_batch_size = 16
 
 downsample_factor = 4
