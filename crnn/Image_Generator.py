@@ -73,7 +73,6 @@ class TextImageGenerator:
 
     def next_sample(self):      ## index max -> 0 으로 만들기
         self.cur_index += 1
-        print(self.cur_index)
         if self.cur_index >= self.n:
             self.cur_index = 0
             random.shuffle(self.indexes)
