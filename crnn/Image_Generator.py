@@ -1,6 +1,5 @@
 import cv2
 import os, random
-from PIL import Image, ImageOps  
 import numpy as np
 from skimage.util import img_as_float
 from crnn.parameter import *
