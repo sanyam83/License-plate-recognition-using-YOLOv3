@@ -1,4 +1,4 @@
-CHAR_VECTOR = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+CHAR_VECTOR = "0123456789/\}{'
 
 letters = [letter for letter in CHAR_VECTOR]
 num_classes = len(letters) + 1
