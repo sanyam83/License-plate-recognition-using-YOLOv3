@@ -15,10 +15,7 @@ def text_to_labels(text):
     # encoding each output word into digits
     dig_lst = []
     for index, char in enumerate(text):
-        try:
-            dig_lst.append(letters.index(char))
-        except:
-            print(char)
+        dig_lst.append(letters.index(char))
         
     return dig_lst
 
